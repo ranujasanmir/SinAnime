@@ -1,0 +1,4 @@
+my_list = [
+        {'author': 'SinAnime', 'title': 'Welcome to the SinAnime Official WebSite.', 'content': 'We will provide sinhala quality subtitles for chinese donghua like Soul Land, Perfect World. Stay with for more updates', 'verified': 'True', 'link': 'https://google.com', 'date': '2023/10/29', 'img': 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lmYXc4bzJrY3Y0MGdycmk5azY2ajQ4MTJsYXpldHJoZzc0eWU3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQLtLpYm2RVLh4g8i8/giphy.gif', 'ads': 'False'}, 
+        {'author': 'Medusa Bot', 'title': 'Medusa V2.10.18 Released!', 'content': 'With new big update I have AI algorithm now. You can ask question about Soul Land and BTTH donghua.', 'verified': 'False', 'link': 'https://google.com', 'date': '2023/10/29', 'img': 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lmYXc4bzJrY3Y0MGdycmk5azY2ajQ4MTJsYXpldHJoZzc0eWU3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQLtLpYm2RVLh4g8i8/giphy.gif', 'ads': 'True'}
+    ]
