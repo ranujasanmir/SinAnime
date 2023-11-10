@@ -1,4 +1,0 @@
-my_list = [
-        {'author': 'SinAnime', 'title': 'Welcome to the SinAnime Official WebSite.', 'content': 'We will provide sinhala quality subtitles for chinese donghua like Soul Land, Perfect World. Stay with for more updates', 'verified': 'True', 'link': 'https://sinanime.ranujasanmir.repl.co', 'date': '2023/10/29', 'img': '', 'ads': 'False'}, 
-        {'author': 'SinAnime', 'title': 'Swallowed Star Season 4 Episode 06 Sinhala Sub', 'content': 'Download .srt Sinhala sub for swallowed star season 4 episode 06', 'verified': 'True', 'link': 'https://github.com/ranujasanmir/Subtitles/raw/main/Swallowed%20Star%20Ep06%20Sin%20Sub%20@SinAnime.zip', 'date': '2023/10/29', 'img': '', 'ads': 'False'}, 
-    ]
