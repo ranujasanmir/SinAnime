@@ -5,7 +5,7 @@
 
 02) දැන් ඒ එන සයිට් එකේ තියෙන captcha එක පුරවලා ඉස්සරහට යන්න.
 
-![First Step](./img/1jpg)
+![First Step](./img/1.jpg)
 
 03) දැන් එන සයිට් එකෙන් Click to Verify බටන් එක ඔබන්න.
 
